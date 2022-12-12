@@ -1,0 +1,43 @@
+html {
+  cursor: crosshair;
+}
+
+body {
+  font-family: Papyrus;
+  background-color:#1A181F;
+  color:ivory;
+  text-align: center;
+  max-width: 600px;
+  margin:auto;
+}
+
+p {
+  text-align: left;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.a {
+  font-style: italic;
+  text-align: center;
+}
+
+a {
+  color: #38E9FF;
+}
+
+ul {
+  list-style: none;
+  font-size: 1.1rem;
+  line-height: 1.3rem;
+}
+
+img {
+  margin: auto;
+  max-width: 280px;
+}
+
+@font-face {
+  font-family: Papyrus;
+  src: url(assets/clacon2.ttf);
+}
